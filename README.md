@@ -3,7 +3,7 @@
 Behold Dungeon Crawler, the culmination of several sleepless nights of inspiration and hard work! Originally created as a project for Computer Organization and Programming at Georgia Tech (CS 2110), and thus the source code has not been uploaded here.
 Dungeon Crawler is a GameBoy Advance game written in C that runs on a Mednafen emulator (https://mednafen.github.io/). Here's what you need to know...
 
-![Image 1](mdimg\title.png)
+![Image 1](../mdimg/title.png)
 
 ## Emulator Controls
 By default, the movement button are bound to the WASD keyboard keys. The "A" button is bound to NUMPAD 3 on the right side of the keyboard.
